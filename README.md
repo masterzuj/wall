@@ -2,7 +2,7 @@
 
 
 
-
+    git clone https://github.com/masterzuj/wall.git
 
 
 
