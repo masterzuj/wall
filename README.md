@@ -1,5 +1,6 @@
 # wall
 
+![wall](https://github.com/user-attachments/assets/150619cb-afe2-4804-849d-781e590329a0)
 
 
     git clone https://github.com/masterzuj/wall.git
