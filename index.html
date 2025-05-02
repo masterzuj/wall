@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WALL</title>
+    <script type="module" src="./model-viewer.3.5.min.js"></script>
+    <style>
+        body { margin: 0; }
+        model-viewer {
+            width: 100%;
+            height: 100vh; /* Nimmt die volle Bildschirmhöhe ein */
+            background-color: #eee; /* Optional: Hintergrundfarbe */
+        }
+    </style>
+</head>
+<body>
+
+    <model-viewer
+        src="./wall_v3.glb"
+        alt="Ein 3D-Modell"
+        auto-rotate
+        camera-controls
+        exposure="0.8"
+        shadow-intensity="0.5"
+		camera-orbit="0deg 360deg 100%" camera-controls
+    >
+    </model-viewer>
+
+</body>
+</html>
