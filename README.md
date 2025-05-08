@@ -6,6 +6,7 @@
     git clone https://github.com/masterzuj/wall.git
 
 
+Modell OBJ, GLB, MTL:
 
 **Lizenz:** Creative Commons Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0)
 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
